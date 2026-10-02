@@ -1,0 +1,32 @@
+Predictive Maintenance Chatbot
+Intent Classifier Evaluation
+
+Dataset:
+- Total examples: 400
+- Training split: 80%
+- Validation split: 10%
+- Test split: 10%
+
+Model:
+- PyTorch
+- Word-level tokenizer
+- Embedding layer
+- LSTM
+- Linear classification layer
+
+Evaluation:
+- Test Accuracy: 97.5%
+- Weighted F1 Score: approximately 0.974
+
+Confusion Matrix:
+
+[[10, 0, 0, 0],
+ [0, 10, 0, 0],
+ [0, 1, 9, 0],
+ [0, 0, 0, 10]]
+
+Intent labels:
+- Fault Diagnosis
+- Maintenance Advice
+- Maintenance Prediction
+- Troubleshooting

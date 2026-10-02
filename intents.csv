@@ -1,0 +1,401 @@
+text,intent
+When should I service my car?,Maintenance Prediction
+Does my vehicle need maintenance?,Maintenance Prediction
+When is my next maintenance due?,Maintenance Prediction
+How soon will my car need its next service?,Maintenance Prediction
+Is my car due for routine maintenance?,Maintenance Prediction
+When should I schedule my next vehicle service?,Maintenance Prediction
+How often does my car need a service?,Maintenance Prediction
+When is the next oil service due?,Maintenance Prediction
+Does my mileage mean I need a service soon?,Maintenance Prediction
+I have driven 10000 miles. Should I service the vehicle?,Maintenance Prediction
+When should I take my truck in for maintenance?,Maintenance Prediction
+Is my van due for a maintenance check?,Maintenance Prediction
+How can I tell when my vehicle is due for service?,Maintenance Prediction
+Will my car need maintenance soon?,Maintenance Prediction
+Should I book a service appointment now?,Maintenance Prediction
+At what mileage should I plan the next service?,Maintenance Prediction
+When should the next scheduled maintenance happen?,Maintenance Prediction
+Can you tell me if my vehicle is due for maintenance?,Maintenance Prediction
+Is it time for my car's regular service?,Maintenance Prediction
+How many miles can I drive before the next service?,Maintenance Prediction
+How many kilometers until my next maintenance?,Maintenance Prediction
+Is my truck approaching its scheduled maintenance?,Maintenance Prediction
+When should I schedule preventive service?,Maintenance Prediction
+Does the age of my car mean it needs maintenance now?,Maintenance Prediction
+I have not serviced my car for a while. Is maintenance due?,Maintenance Prediction
+When should I have my vehicle inspected for routine maintenance?,Maintenance Prediction
+Can mileage be used to predict when my car needs service?,Maintenance Prediction
+Will my vehicle probably need maintenance in the next month?,Maintenance Prediction
+Should I plan a service based on my current mileage?,Maintenance Prediction
+Is my next scheduled service coming up?,Maintenance Prediction
+When should a routine maintenance visit be scheduled?,Maintenance Prediction
+Does my driving distance suggest that maintenance is due?,Maintenance Prediction
+When is my vehicle's next maintenance interval?,Maintenance Prediction
+Should I service my car before a long trip?,Maintenance Prediction
+Is my vehicle likely to need a checkup soon?,Maintenance Prediction
+How do I know if my next service is due?,Maintenance Prediction
+Can you predict when my truck will need maintenance?,Maintenance Prediction
+When should I arrange the next preventive maintenance?,Maintenance Prediction
+Is it too early to service my vehicle?,Maintenance Prediction
+Has my car reached the mileage for scheduled maintenance?,Maintenance Prediction
+Should my van be serviced at this mileage?,Maintenance Prediction
+How soon should I expect the next maintenance visit?,Maintenance Prediction
+Can you estimate when my next car service is needed?,Maintenance Prediction
+Is routine maintenance due based on the vehicle's age?,Maintenance Prediction
+How often should this vehicle be taken in for maintenance?,Maintenance Prediction
+When is the proper time for my next service?,Maintenance Prediction
+Does my current mileage indicate a service is due?,Maintenance Prediction
+Should I schedule maintenance this week?,Maintenance Prediction
+When will my car likely require its next service?,Maintenance Prediction
+Is there a way to predict my next maintenance date?,Maintenance Prediction
+My vehicle has been used heavily lately. Is maintenance due?,Maintenance Prediction
+Should I expect maintenance soon after reaching this mileage?,Maintenance Prediction
+When should I have the truck serviced again?,Maintenance Prediction
+Is the next maintenance interval approaching?,Maintenance Prediction
+Can the service history tell me when maintenance is due?,Maintenance Prediction
+I want to know when my car will need its next checkup.,Maintenance Prediction
+Is my vehicle due for an upcoming inspection?,Maintenance Prediction
+Should I arrange routine maintenance now or later?,Maintenance Prediction
+How far in advance should I schedule vehicle maintenance?,Maintenance Prediction
+When should I expect the next oil change service?,Maintenance Prediction
+Is my car's maintenance interval almost reached?,Maintenance Prediction
+Does the number of miles driven suggest upcoming maintenance?,Maintenance Prediction
+When should I service a vehicle that is used every day?,Maintenance Prediction
+Can you estimate the next maintenance date for my car?,Maintenance Prediction
+Is my vehicle approaching a scheduled service?,Maintenance Prediction
+Should I take my car for routine maintenance at this mileage?,Maintenance Prediction
+When is maintenance expected for my van?,Maintenance Prediction
+How often should I schedule preventive maintenance for my truck?,Maintenance Prediction
+My last service was a long time ago. Is another one due?,Maintenance Prediction
+Is my vehicle likely to need service soon based on its mileage?,Maintenance Prediction
+When should I book my next maintenance appointment?,Maintenance Prediction
+Does my vehicle need a scheduled check now?,Maintenance Prediction
+Can you tell me when maintenance is expected?,Maintenance Prediction
+How soon should my car have its next routine inspection?,Maintenance Prediction
+When should I perform the next scheduled service?,Maintenance Prediction
+Is my current odometer reading enough to require maintenance?,Maintenance Prediction
+When should a high-mileage vehicle be serviced again?,Maintenance Prediction
+Is maintenance coming up for my vehicle?,Maintenance Prediction
+Can I predict my next service from my previous service date?,Maintenance Prediction
+Should I service the car before the next mileage interval?,Maintenance Prediction
+When will my truck reach its next maintenance interval?,Maintenance Prediction
+Does my service history suggest that maintenance is due?,Maintenance Prediction
+When should the next preventive check be performed?,Maintenance Prediction
+Is my car overdue for routine maintenance?,Maintenance Prediction
+Could my vehicle need maintenance in the next few weeks?,Maintenance Prediction
+When should I plan the next inspection for my van?,Maintenance Prediction
+At what point should I expect another service?,Maintenance Prediction
+Can you predict if maintenance will be needed soon?,Maintenance Prediction
+Is it time to schedule the next maintenance appointment?,Maintenance Prediction
+How soon after the last service should I return?,Maintenance Prediction
+When does regular maintenance normally come due for my vehicle?,Maintenance Prediction
+Should my vehicle be checked again based on its service interval?,Maintenance Prediction
+Will my car need routine maintenance before next month?,Maintenance Prediction
+When should I arrange maintenance based on the odometer?,Maintenance Prediction
+Is the vehicle close to its next service interval?,Maintenance Prediction
+How can I predict the next scheduled maintenance?,Maintenance Prediction
+Does my current usage mean maintenance is due soon?,Maintenance Prediction
+When should I schedule another service for my vehicle?,Maintenance Prediction
+Is my car ready for its next routine service?,Maintenance Prediction
+Is my vehicle due for its next scheduled maintenance?,Maintenance Prediction
+My engine is overheating. What should I check?,Troubleshooting
+My car is making a strange noise. What should I do?,Troubleshooting
+My vehicle won't start. How can I troubleshoot it?,Troubleshooting
+My car is overheating while driving. What should I check first?,Troubleshooting
+The engine will not start. What can I try?,Troubleshooting
+My car suddenly lost power. What should I check?,Troubleshooting
+The vehicle is shaking when I drive. How can I troubleshoot it?,Troubleshooting
+My brakes feel unusual. What should I check?,Troubleshooting
+The engine is running rough. What should I inspect?,Troubleshooting
+My car keeps stalling. What can I troubleshoot?,Troubleshooting
+The battery seems weak and the car struggles to start. What should I check?,Troubleshooting
+My vehicle is difficult to start in the morning. What should I inspect?,Troubleshooting
+The engine temperature is getting too high. What should I do?,Troubleshooting
+My car is vibrating at high speed. What should I check?,Troubleshooting
+The steering feels strange. How can I troubleshoot it?,Troubleshooting
+My vehicle is pulling to one side. What should I inspect?,Troubleshooting
+The brakes are making noise. What can I check?,Troubleshooting
+My headlights are not working. What should I troubleshoot?,Troubleshooting
+The air conditioner stopped cooling. What should I check?,Troubleshooting
+My car is losing coolant. What should I inspect?,Troubleshooting
+The engine is misfiring. What should I check first?,Troubleshooting
+My vehicle is using more fuel than usual. What can I troubleshoot?,Troubleshooting
+The car feels weak when accelerating. What should I check?,Troubleshooting
+My engine is idling badly. What should I inspect?,Troubleshooting
+The dashboard has several warning lights. What should I check?,Troubleshooting
+My car makes a noise when I turn. What should I troubleshoot?,Troubleshooting
+The vehicle jerks when changing gears. What should I check?,Troubleshooting
+My transmission feels strange. What should I inspect?,Troubleshooting
+The car takes longer to stop than usual. What should I check?,Troubleshooting
+My tires keep losing pressure. What should I troubleshoot?,Troubleshooting
+The engine cranks but does not start. What should I check?,Troubleshooting
+My car starts and then immediately stops. What can I inspect?,Troubleshooting
+The vehicle is making a clicking noise when starting. What should I check?,Troubleshooting
+My car is overheating in traffic. What should I inspect?,Troubleshooting
+The temperature gauge keeps rising. What should I troubleshoot?,Troubleshooting
+My vehicle has weak acceleration. What should I check?,Troubleshooting
+The car is shaking when braking. What should I inspect?,Troubleshooting
+My steering wheel vibrates. What should I troubleshoot?,Troubleshooting
+The engine warning light came on and the car feels different. What should I check?,Troubleshooting
+My car has trouble starting after sitting overnight. What can I inspect?,Troubleshooting
+The engine sounds rough after starting. What should I check?,Troubleshooting
+My vehicle suddenly stopped while driving. What should I troubleshoot?,Troubleshooting
+The car is leaking fluid. What should I check first?,Troubleshooting
+My engine smells unusual. What should I inspect?,Troubleshooting
+The brakes feel soft. What should I check?,Troubleshooting
+My car is difficult to steer. What should I troubleshoot?,Troubleshooting
+The accelerator response is slow. What should I inspect?,Troubleshooting
+My vehicle is making a squealing sound. What should I check?,Troubleshooting
+The engine is louder than normal. What can I troubleshoot?,Troubleshooting
+My car has a rough ride. What should I inspect?,Troubleshooting
+The battery warning light is on. What should I check?,Troubleshooting
+My vehicle is not charging properly. What can I troubleshoot?,Troubleshooting
+The air conditioner blows warm air. What should I check?,Troubleshooting
+My heater is not working. What should I inspect?,Troubleshooting
+The windshield wipers stopped working. What should I troubleshoot?,Troubleshooting
+My car's horn is not working. What should I check?,Troubleshooting
+The power windows stopped working. What can I troubleshoot?,Troubleshooting
+The vehicle has an electrical problem. Where should I start?,Troubleshooting
+My engine loses power uphill. What should I check?,Troubleshooting
+The car hesitates when accelerating. What should I troubleshoot?,Troubleshooting
+My vehicle has trouble changing gears. What should I inspect?,Troubleshooting
+The clutch feels different. What should I check?,Troubleshooting
+The car vibrates while idling. What can I troubleshoot?,Troubleshooting
+My engine temperature changes suddenly. What should I inspect?,Troubleshooting
+The car is overheating even though the coolant level looks normal. What should I check?,Troubleshooting
+My vehicle makes a grinding sound while moving. What should I inspect?,Troubleshooting
+There is a burning smell from my car. What should I troubleshoot?,Troubleshooting
+My brakes are less responsive than before. What should I check?,Troubleshooting
+The vehicle feels unstable on the road. What should I inspect?,Troubleshooting
+My car pulls left when braking. What should I troubleshoot?,Troubleshooting
+The engine keeps stalling at traffic lights. What should I check?,Troubleshooting
+My vehicle won't accelerate normally. What can I inspect?,Troubleshooting
+The car has a delayed start. What should I troubleshoot?,Troubleshooting
+My battery keeps going flat. What should I check?,Troubleshooting
+The alternator may not be charging. What should I inspect?,Troubleshooting
+My vehicle's lights flicker. What can I troubleshoot?,Troubleshooting
+The car's temperature warning appears during long drives. What should I check?,Troubleshooting
+My engine makes noise when accelerating. What should I inspect?,Troubleshooting
+The car makes a thumping sound over bumps. What should I troubleshoot?,Troubleshooting
+My vehicle has a strange smell after driving. What should I check?,Troubleshooting
+The engine is difficult to keep running. What should I inspect?,Troubleshooting
+My car has intermittent starting problems. What can I troubleshoot?,Troubleshooting
+The vehicle shakes when I accelerate. What should I check?,Troubleshooting
+The brakes squeak every time I stop. What should I troubleshoot?,Troubleshooting
+My steering wheel is hard to turn. What should I inspect?,Troubleshooting
+The car feels like it is dragging. What should I check?,Troubleshooting
+My vehicle makes a rattling sound. What can I troubleshoot?,Troubleshooting
+The engine RPM keeps fluctuating. What should I inspect?,Troubleshooting
+My car has poor fuel economy suddenly. What should I check?,Troubleshooting
+The vehicle is overheating after a short drive. What should I troubleshoot?,Troubleshooting
+My engine will not crank. What should I inspect?,Troubleshooting
+The starter clicks but the engine does not turn over. What should I check?,Troubleshooting
+My car loses power when the AC is on. What can I troubleshoot?,Troubleshooting
+The vehicle makes a noise only when turning. What should I inspect?,Troubleshooting
+My car has trouble braking smoothly. What should I check?,Troubleshooting
+The engine runs rough when cold. What should I troubleshoot?,Troubleshooting
+My vehicle has a problem that comes and goes. How should I troubleshoot it?,Troubleshooting
+The car suddenly started vibrating. What should I inspect?,Troubleshooting
+My vehicle is hard to start after refueling. What should I check?,Troubleshooting
+The engine sounds different than normal. What can I troubleshoot?,Troubleshooting
+How can I keep my car in good condition?,Maintenance Advice
+What should I do to prevent vehicle problems?,Maintenance Advice
+How often should I check my car?,Maintenance Advice
+What are some good habits for maintaining a vehicle?,Maintenance Advice
+How can I extend the life of my car?,Maintenance Advice
+What should I regularly inspect on my vehicle?,Maintenance Advice
+How can I prevent engine problems?,Maintenance Advice
+What maintenance habits should every driver follow?,Maintenance Advice
+How should I take care of my car between services?,Maintenance Advice
+What can I do to keep my vehicle reliable?,Maintenance Advice
+How often should I check the tire pressure?,Maintenance Advice
+Should I check my engine oil regularly?,Maintenance Advice
+What is the best way to maintain my tires?,Maintenance Advice
+How can I avoid unnecessary vehicle repairs?,Maintenance Advice
+What should I do to protect my car's battery?,Maintenance Advice
+How can I keep my brakes in good condition?,Maintenance Advice
+What routine checks should I perform at home?,Maintenance Advice
+How can I reduce wear on my vehicle?,Maintenance Advice
+What should I check before a long road trip?,Maintenance Advice
+How can I maintain my vehicle during hot weather?,Maintenance Advice
+What maintenance should I do before winter?,Maintenance Advice
+How can I keep my engine healthy?,Maintenance Advice
+What should I do to prevent overheating?,Maintenance Advice
+How can I take better care of my truck?,Maintenance Advice
+What are good maintenance practices for a van?,Maintenance Advice
+How often should I inspect my tires?,Maintenance Advice
+What can I do to make my tires last longer?,Maintenance Advice
+How should I maintain my car's cooling system?,Maintenance Advice
+What can I do to keep the battery healthy?,Maintenance Advice
+How can I prevent corrosion on my vehicle?,Maintenance Advice
+What should I do if my car sits unused for weeks?,Maintenance Advice
+How can I prepare my vehicle for a long trip?,Maintenance Advice
+What checks should I make before driving long distances?,Maintenance Advice
+How can I keep my vehicle's fluids at healthy levels?,Maintenance Advice
+What should I know about routine oil checks?,Maintenance Advice
+How can I take care of my brakes?,Maintenance Advice
+What habits can improve vehicle reliability?,Maintenance Advice
+How can I prevent premature tire wear?,Maintenance Advice
+What should I do regularly to avoid breakdowns?,Maintenance Advice
+How can I maintain my vehicle without causing damage?,Maintenance Advice
+What should I check under the hood regularly?,Maintenance Advice
+How can I keep my car running smoothly?,Maintenance Advice
+What are simple preventive maintenance steps?,Maintenance Advice
+How can I protect my vehicle from excessive wear?,Maintenance Advice
+What should I do to keep my truck roadworthy?,Maintenance Advice
+How can I improve the long-term reliability of my car?,Maintenance Advice
+What maintenance should I never ignore?,Maintenance Advice
+How can I take care of my vehicle's cooling system?,Maintenance Advice
+What should I check on my car every month?,Maintenance Advice
+How often should I inspect engine fluids?,Maintenance Advice
+What can I do to keep my car dependable?,Maintenance Advice
+How can I avoid battery problems?,Maintenance Advice
+What should I do to keep my vehicle ready for daily use?,Maintenance Advice
+How can I reduce the chance of a roadside breakdown?,Maintenance Advice
+What preventive checks should I do before a trip?,Maintenance Advice
+How should I care for my vehicle in very hot weather?,Maintenance Advice
+What can I do to prevent tire problems?,Maintenance Advice
+How can I maintain good braking performance?,Maintenance Advice
+What should I do to keep the engine clean and healthy?,Maintenance Advice
+How can I make routine vehicle care easier?,Maintenance Advice
+What should I inspect after driving on rough roads?,Maintenance Advice
+How can I protect my car from heat?,Maintenance Advice
+What regular checks help prevent major repairs?,Maintenance Advice
+How should I maintain a vehicle that is driven every day?,Maintenance Advice
+What can I do to keep my vehicle in good shape between services?,Maintenance Advice
+How can I care for my car if I drive mostly short trips?,Maintenance Advice
+What maintenance advice would you give a new car owner?,Maintenance Advice
+How can I prevent small vehicle issues from becoming serious?,Maintenance Advice
+What should I check before buying a used vehicle?,Maintenance Advice
+How can I keep a high-mileage vehicle reliable?,Maintenance Advice
+What should I do to maintain my vehicle during heavy use?,Maintenance Advice
+How can I protect my tires from unnecessary wear?,Maintenance Advice
+What should I know about regular vehicle inspections?,Maintenance Advice
+How can I keep my vehicle's fluids in good condition?,Maintenance Advice
+What should I do if my car is parked outside most of the time?,Maintenance Advice
+How can I keep my car reliable in hot climates?,Maintenance Advice
+What preventive care is useful for an older vehicle?,Maintenance Advice
+How can I reduce stress on my engine?,Maintenance Advice
+What can I do to maintain good fuel efficiency?,Maintenance Advice
+How should I care for my vehicle before a road trip?,Maintenance Advice
+What simple checks can I perform every week?,Maintenance Advice
+How can I prevent common car maintenance problems?,Maintenance Advice
+What should I monitor between scheduled services?,Maintenance Advice
+How can I keep my vehicle safe and well maintained?,Maintenance Advice
+What should I inspect after a long journey?,Maintenance Advice
+How can I protect my vehicle's electrical system?,Maintenance Advice
+What can I do to extend tire life?,Maintenance Advice
+How can I avoid neglecting routine maintenance?,Maintenance Advice
+What should I regularly monitor on a work truck?,Maintenance Advice
+How can I keep an older car running well?,Maintenance Advice
+What are useful preventive checks for a daily driver?,Maintenance Advice
+How can I reduce the risk of unexpected repairs?,Maintenance Advice
+What should I do to keep my vehicle ready for summer?,Maintenance Advice
+How can I maintain my car's cooling performance?,Maintenance Advice
+What routine care can help prevent engine damage?,Maintenance Advice
+How should I maintain a vehicle used for long commutes?,Maintenance Advice
+What should I inspect regularly to keep my car safe?,Maintenance Advice
+How can I keep my vehicle in good condition for longer?,Maintenance Advice
+What are the most useful routine maintenance habits?,Maintenance Advice
+How can I prevent common wear and tear?,Maintenance Advice
+My car is making a grinding noise. What could be wrong?,Fault Diagnosis
+My engine is making a knocking sound. What is the possible fault?,Fault Diagnosis
+My dashboard warning light came on. What could be the problem?,Fault Diagnosis
+What could cause a grinding noise when I brake?,Fault Diagnosis
+What could be causing a knocking sound from the engine?,Fault Diagnosis
+What fault could cause my car to shake while driving?,Fault Diagnosis
+Why is my engine making a ticking noise?,Fault Diagnosis
+What could cause a squealing sound from the brakes?,Fault Diagnosis
+What could be wrong if my car pulls to one side?,Fault Diagnosis
+What might cause my vehicle to overheat?,Fault Diagnosis
+What could cause an engine misfire?,Fault Diagnosis
+What fault could make my car difficult to start?,Fault Diagnosis
+What could cause a rough idle?,Fault Diagnosis
+Why might my vehicle lose power during acceleration?,Fault Diagnosis
+What could cause a burning smell from the engine?,Fault Diagnosis
+What could be wrong if the battery keeps dying?,Fault Diagnosis
+What might cause a rattling sound from the engine?,Fault Diagnosis
+What could cause vibration at high speed?,Fault Diagnosis
+What fault might cause poor fuel economy?,Fault Diagnosis
+What could cause my brakes to feel soft?,Fault Diagnosis
+Why would the steering wheel vibrate while driving?,Fault Diagnosis
+What could cause a car to stall repeatedly?,Fault Diagnosis
+What might cause the temperature gauge to rise?,Fault Diagnosis
+What could be causing coolant to disappear?,Fault Diagnosis
+What fault could cause the engine to crank but not start?,Fault Diagnosis
+Why does my car make a clicking sound when starting?,Fault Diagnosis
+What could cause the vehicle to jerk when changing gears?,Fault Diagnosis
+What might be wrong with a transmission that slips?,Fault Diagnosis
+What could cause a strange noise when turning?,Fault Diagnosis
+Why does my car make a thumping sound over bumps?,Fault Diagnosis
+What could cause the air conditioner to blow warm air?,Fault Diagnosis
+What fault could cause headlights to stop working?,Fault Diagnosis
+What could cause dashboard warning lights to appear?,Fault Diagnosis
+Why would an engine run rough when cold?,Fault Diagnosis
+What could cause an engine to lose power uphill?,Fault Diagnosis
+What fault might cause slow acceleration?,Fault Diagnosis
+Why is my vehicle shaking when braking?,Fault Diagnosis
+What could cause a car to pull left while braking?,Fault Diagnosis
+What might cause a battery warning light?,Fault Diagnosis
+What could cause the engine temperature to become too high?,Fault Diagnosis
+Why might the engine RPM fluctuate at idle?,Fault Diagnosis
+What could cause a vehicle to use more fuel than normal?,Fault Diagnosis
+What fault could cause a burning smell while driving?,Fault Diagnosis
+Why is my steering difficult to turn?,Fault Diagnosis
+What could cause the accelerator to respond slowly?,Fault Diagnosis
+What might cause a vehicle to vibrate while idling?,Fault Diagnosis
+What fault could make the engine sound louder than normal?,Fault Diagnosis
+What could cause a car to have intermittent starting problems?,Fault Diagnosis
+Why does my car shake when I accelerate?,Fault Diagnosis
+What might cause a vehicle to lose coolant?,Fault Diagnosis
+What could cause a tire to keep losing pressure?,Fault Diagnosis
+What fault could cause uneven tire wear?,Fault Diagnosis
+Why would the brakes squeak continuously?,Fault Diagnosis
+What could cause a grinding noise from the wheels?,Fault Diagnosis
+What might cause the engine to stall at traffic lights?,Fault Diagnosis
+What could cause a vehicle to hesitate during acceleration?,Fault Diagnosis
+Why does my car struggle to start after sitting overnight?,Fault Diagnosis
+What fault could cause flickering headlights?,Fault Diagnosis
+What might cause an electrical system problem?,Fault Diagnosis
+What could cause the power windows to stop working?,Fault Diagnosis
+Why might the windshield wipers stop working?,Fault Diagnosis
+What could cause the horn to stop working?,Fault Diagnosis
+What fault could cause an engine to overheat in traffic?,Fault Diagnosis
+Why does my engine sound different after starting?,Fault Diagnosis
+What could cause a vehicle to feel unstable on the road?,Fault Diagnosis
+What might cause poor braking performance?,Fault Diagnosis
+What could cause a clutch to feel unusual?,Fault Diagnosis
+Why might a transmission make a whining sound?,Fault Diagnosis
+What could cause a vehicle to jerk while accelerating?,Fault Diagnosis
+What fault could cause a rough ride?,Fault Diagnosis
+Why would a car feel like it is dragging?,Fault Diagnosis
+What could cause an unusual smell inside the vehicle?,Fault Diagnosis
+What might cause the engine to hesitate when cold?,Fault Diagnosis
+What fault could cause repeated overheating?,Fault Diagnosis
+Why is there a rattling sound under the vehicle?,Fault Diagnosis
+What could cause a knocking noise when accelerating?,Fault Diagnosis
+What might cause a squeal when the car starts?,Fault Diagnosis
+What could cause the engine to run unevenly?,Fault Diagnosis
+Why would the vehicle suddenly lose acceleration?,Fault Diagnosis
+What fault might cause the car to stop while driving?,Fault Diagnosis
+What could cause a warning light to stay on?,Fault Diagnosis
+What might cause the check engine light to appear?,Fault Diagnosis
+What could cause the oil warning light to turn on?,Fault Diagnosis
+Why might the coolant warning light appear?,Fault Diagnosis
+What could cause an ABS warning light?,Fault Diagnosis
+What fault could cause brake vibration?,Fault Diagnosis
+What might cause steering vibration at certain speeds?,Fault Diagnosis
+What could cause an engine to make a metallic noise?,Fault Diagnosis
+Why might a vehicle have reduced engine power?,Fault Diagnosis
+What could cause the engine to consume too much oil?,Fault Diagnosis
+What fault might cause smoke from the exhaust?,Fault Diagnosis
+What could cause unusual exhaust noise?,Fault Diagnosis
+Why might the car smell like fuel?,Fault Diagnosis
+What could cause a vehicle to have poor fuel efficiency?,Fault Diagnosis
+What fault could cause delayed gear changes?,Fault Diagnosis
+What might cause a car to slip out of gear?,Fault Diagnosis
+What could cause a clicking noise while turning?,Fault Diagnosis
+Why would a vehicle make a clunking noise over bumps?,Fault Diagnosis
+What might cause a repeated engine warning?,Fault Diagnosis
+What could cause an engine to shake at idle?,Fault Diagnosis

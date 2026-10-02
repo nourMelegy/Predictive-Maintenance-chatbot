@@ -1,0 +1,10 @@
+streamlit
+pandas
+torch
+scikit-learn
+langchain
+langchain-community
+langchain-classic
+langchain-groq
+sentence-transformers
+faiss-cpu
